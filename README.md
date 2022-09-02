@@ -1,4 +1,4 @@
-# Angular SEO dynamic meta tags
+# Angular SEO meta tags for social media sharing
 
 This NodeJS application can easly display angular website with dynamic meta tags. Now we can see a proper meta tags of links shared via Facebook, Twitter etc. Data can be load asynchronous.
 
